@@ -1,4 +1,8 @@
-# CurrencyConverterApp
+# The project is available on the website
+
+https://itsshock.github.io/CurrencyConverterApp_React/
+
+## CurrencyConverterApp
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -17,7 +21,7 @@ The project uses the opensource API of the Polish National Bank.
 * HTML: 5
 * React 6.14.12
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
