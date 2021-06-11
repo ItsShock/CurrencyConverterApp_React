@@ -38,12 +38,10 @@ class App extends Component {
   }
 
   getAmount = (amount) => {
-    console.log(amount)
     this.setState({amount})
   }
   
   getCurrency = (currency) => {
-    console.log(currency)
     this.setState({currency})
   }
 
