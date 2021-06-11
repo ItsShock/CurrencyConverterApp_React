@@ -1,8 +1,31 @@
-# Getting Started with Create React App
+# The project is available on the website
+
+https://itsshock.github.io/CurrencyConverterApp_React/
+
+## CurrencyConverterApp
+### Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+
+### General infoProject of the Currency Converter which converts the amount from:
+* EUR
+* USD
+* CHF
+
+to the Polish currency PLN.
+
+The project uses the opensource API of the Polish National Bank.
+### TechnologiesProject is created with:
+* VanillaJS: ES6
+* CSS: 3
+* HTML: 5
+* React 6.14.12
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
