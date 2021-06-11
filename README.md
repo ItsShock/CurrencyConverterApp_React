@@ -2,6 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Getting](#tgetting)
 ## General infoProject of the Currency Converter which converts the amount from:
 * EUR
 * USD
