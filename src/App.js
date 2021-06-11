@@ -32,7 +32,6 @@ class App extends Component {
       USD: d[0].rates[0].ask,
       CHF: d[0].rates[5].ask,
       } }))
-      console.log(this.state);
     })
     .catch((err) => console.log(err));
   
@@ -50,8 +49,6 @@ class App extends Component {
 
   exchangeAmountFn = () => {
     this.setState({ exchangeAmount: this.state.rates[this.state.currency] * this.state.amount })
-
-    console.log(this.state.exchangeAmount)
   }
 
   render() {
