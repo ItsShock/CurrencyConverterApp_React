@@ -14,6 +14,7 @@ The project uses the opensource API of the Polish National Bank.
 * VanillaJS: ES6
 * CSS: 3
 * HTML: 5
+* React 6.14.12
 
 # Getting Started with Create React App
 
